@@ -12,6 +12,8 @@ _This work based on [redis-eventemitter](https://github.com/freeall/redis-evente
 
 ## Usage
 
+**pub/sub clients must be compatible [ioredis](https://github.com/luin/ioredis)**
+
 ```js
 var redis = require('ioredis-eventemitter');
 
@@ -25,8 +27,6 @@ var pubsub = redis({
 	// pub: pubClient,
 	// sub: subClient
 });
-**pub/sub clients must be compatible [ioredis](https://github.com/luin/ioredis)**
-
 
 // Listen for messages on the *:newuser channel
 pubsub.on('*:newuser', function(channel, user) {
