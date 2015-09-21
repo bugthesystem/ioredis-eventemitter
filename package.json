@@ -1,6 +1,6 @@
 {
   "name": "ioredis-eventemitter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Redis pubsub using an event emitter via ioredis Redis client",
   "main": "index.js",
   "author": "Ziya SARIKAYA @ziyasal <sarikayaziya@gmail.com> (http://ziyasal.com)",
