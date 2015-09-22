@@ -1,5 +1,5 @@
 # ioredis-eventemitter
-Redis pubsub using an event emitter via ioredis Redis client
+Redis pubsub using an event emitter via ioredis Redis client that it supports [Cluster](http://redis.io/topics/cluster-tutorial), [Sentinel](http://redis.io/topics/sentinel)
 
 > [ioredis](https://github.com/luin/ioredis) is a robust, performance-focused and full-featured Redis client for Node and io.js.  
 
