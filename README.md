@@ -1,7 +1,7 @@
 # ioredis-eventemitter
 Redis pubsub using an event emitter via ioredis Redis client. 
 
-[![NPM](https://nodei.co/npm/ioredis-eventemitter.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/ioredis-eventemitter/) [![npm version](https://badge.fury.io/js/ioredis-eventemitter.svg)](http://badge.fury.io/js/ioredis-eventemitter) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/ziyasal/ioredis-eventemitter/master/LICENSE) [![GitHub issues](https://img.shields.io/github/issues/ziyasal/ioredis-eventemitter.svg)](https://github.com/ziyasal/ioredis-eventemitter/issues)
+[![NPM](https://nodei.co/npm/ioredis-eventemitter.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/ioredis-eventemitter/) [![npm version](https://badge.fury.io/js/ioredis-eventemitter.svg)](http://badge.fury.io/js/ioredis-eventemitter) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/ziyasal/ioredis-eventemitter/master/LICENSE) [![GitHub issues](https://img.shields.io/github/issues/ziyasal/ioredis-eventemitter.svg)](https://github.com/ziyasal/ioredis-eventemitter/issues)  
 [ioredis](https://github.com/luin/ioredis) supports [Cluster](http://redis.io/topics/cluster-tutorial) and [Sentinel](http://redis.io/topics/sentinel)
 
 > [ioredis](https://github.com/luin/ioredis) is a robust, performance-focused and full-featured Redis client for Node and io.js.  
